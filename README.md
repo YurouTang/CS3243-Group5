@@ -73,3 +73,12 @@ In the limited version, user only allowed to raise for four time in one round ga
 In addition, in each street (preflop,flop,turn,river),each player only allowed to raise for four times.
 
 Other information is similar to the PyPokerEngine,please check the detail about the parameter [link](https://github.com/ishikota/PyPokerEngine/blob/master/AI_CALLBACK_FORMAT.md)
+
+## Notes added:
+Cool projects to check out:
+
+https://github.com/fcarsten/tic-tac-toe/blob/master/tic_tac_toe/MinMaxAgent.py
+
+taken from 
+
+https://medium.com/@carsten.friedrich/part-2-the-min-max-algorithm-ae1489509660
